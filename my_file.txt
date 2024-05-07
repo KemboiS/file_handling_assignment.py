@@ -1,0 +1,6 @@
+This is the first line of text.
+Here's another line with a number: 42
+And a final line for good measure.
+Appending some additional content.
+This line was appended using the script.
+More text to demonstrate appending.
